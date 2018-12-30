@@ -1,0 +1,33 @@
+package info.kblogics;
+
+	
+class App 
+{  
+	static boolean b;
+	
+    public static void main(String[] args) 
+    { 
+    	if(5==1) {
+    		System.out.println("only if");
+    	}
+    	
+    	if(2==3) {
+    		System.out.println("only if");
+    	}
+    	
+    	else if(3==3) {
+    		System.out.println("else if");
+    	}
+    	
+    	else if(4==4) {
+    		System.out.println("else if");
+    	}
+         
+    	else {
+    		System.out.println("else");
+    	}
+    	
+        
+    	
+    } 
+}

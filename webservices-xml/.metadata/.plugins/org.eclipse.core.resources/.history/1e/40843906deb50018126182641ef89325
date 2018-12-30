@@ -1,0 +1,29 @@
+package info.kblogics;
+
+public class Pattern {
+
+	
+	 boolean [] b = new boolean[3];
+	    int count = 0;
+
+	    void set(boolean [] x, int i) 
+	    {
+	        x[i] = true;
+	        ++count;
+	        System.out.println(x[i]);
+	    }
+
+	    public static void main(String [] args) 
+	    {
+	        Pattern ba = new Pattern();
+	        ba.set(ba.b, 0);
+	        ba.set(ba.b, 2);
+	       
+	    }
+
+	    
+		
+
+	
+
+}

@@ -1,0 +1,20 @@
+package info.kblogics;
+
+	
+class App 
+{  
+	
+	
+    public static void main(String[] args) 
+    { 
+    	
+    	String a = "newspaper";
+    	 a.substring(5,7);
+    	
+    	System.out.println(a);
+    	
+    	
+        
+    }	
+    
+}

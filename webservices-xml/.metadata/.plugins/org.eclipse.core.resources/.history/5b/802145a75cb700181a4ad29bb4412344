@@ -1,0 +1,19 @@
+package info.kblogics;
+
+	
+class App 
+{  
+	static boolean b;
+	
+    public static void main(String[] args) 
+    { 
+    	short hand = 42;
+        if ( hand < 50 && !b ) {
+        	System.out.println(hand );
+        }
+           
+       
+        
+    	
+    } 
+}

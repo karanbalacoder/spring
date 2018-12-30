@@ -1,0 +1,12 @@
+package info.kblogics;
+
+public class Super {
+
+	
+	public Super() {
+		System.out.println("hie");
+	}
+	
+	
+}
+

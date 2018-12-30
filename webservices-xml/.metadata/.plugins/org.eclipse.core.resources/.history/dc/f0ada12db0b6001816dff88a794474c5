@@ -1,0 +1,10 @@
+package info.kblogics;
+
+public class Super {
+
+	public int i=1;
+	
+	
+	
+}
+

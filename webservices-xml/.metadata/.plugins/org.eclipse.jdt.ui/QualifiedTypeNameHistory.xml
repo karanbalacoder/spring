@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="info.kblogics.Sub"/>
+<fullyQualifiedTypeName name="info.kblogics.Super"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="info.kblogics.MyThread"/>
+<fullyQualifiedTypeName name="info.kblogics.MyRunnable"/>
+<fullyQualifiedTypeName name="java.lang.Throwable"/>
+<fullyQualifiedTypeName name="info.kblogics.App"/>
+<fullyQualifiedTypeName name="info.kblogics.Tree"/>
+<fullyQualifiedTypeName name="info.kblogics.Oak"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="info.kblogics.Test"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+</qualifiedTypeNameHistroy>

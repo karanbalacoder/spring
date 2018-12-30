@@ -1,0 +1,12 @@
+package info.kblogics;
+
+public class Sub extends Super {
+	
+	
+
+	public static void main(String[] args) {
+		
+		new Sub();
+		
+	}
+}

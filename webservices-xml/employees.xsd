@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://info.kblogics"
+	xmlns:tns="http://info.kblogics"
+	elementFormDefault="qualified">
+
+	<xsd:element name="employees" type="tns:employeesType"></xsd:element>
+
+	<xsd:complexType name="employeesType">
+		<xsd:sequence>
+			<xsd:element name="employee" type="tns:employeeType" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+
+	<xsd:complexType name="employeeType">
+		<xsd:sequence>
+			<xsd:element name="eno" type="xsd:int"></xsd:element>
+			<xsd:element name="name" type="xsd:string"></xsd:element>
+			<xsd:element name="salary" type="xsd:double"></xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+</xsd:schema>

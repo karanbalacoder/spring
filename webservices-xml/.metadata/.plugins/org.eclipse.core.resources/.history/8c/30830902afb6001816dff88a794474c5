@@ -1,0 +1,27 @@
+package info.kblogics;
+
+public class Pattern {
+
+	
+	
+	public static void main(String [] args) throws InterruptedException 
+    {
+
+		int i = 0, j = 5; 
+		 for (;;) 
+		    {
+		        i++;  
+		        for (;;) 
+		        {
+		            if(i > --j) 
+		            {
+		                break tp; 
+		            } 
+		        } 
+		        System.out.println("i =" + i + ", j = " + j);
+		    
+    }
+
+   
+
+}

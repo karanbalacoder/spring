@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees xmlns="http://info.kblogics"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://info.kblogics employees.xsd ">
+	<employee>
+		<eno>1</eno>
+		<name>karan</name>
+		<salary>10000</salary>
+	</employee>
+	
+	<employee>
+		<eno>2</eno>
+		<name>bala</name>
+		<salary>20000</salary>
+	</employee>
+	
+	<employee>
+		<eno>3</eno>
+		<name>baba</name>
+		<salary>30000</salary>
+	</employee>
+
+</employees>

@@ -1,0 +1,19 @@
+package info.kblogics;
+
+public class Pattern {
+
+	
+	
+	public static void main(String [] args) throws InterruptedException 
+    {
+		 int x;
+	        x = 3;
+	        for (int y = 1; y <= x; y++) 
+	        {
+	            System.out.print(" " + args[y]);
+	        }
+    }
+
+   
+
+}

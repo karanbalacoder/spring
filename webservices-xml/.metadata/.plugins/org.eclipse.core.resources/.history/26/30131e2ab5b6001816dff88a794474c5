@@ -1,0 +1,12 @@
+package info.kblogics;
+
+public class Sub {
+	
+	
+
+	public static void main(String[] args) {
+		
+		Super super1 = new Super();
+		Sub sub = new Sub();
+	}
+}

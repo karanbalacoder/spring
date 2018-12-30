@@ -1,0 +1,16 @@
+package info.kblogics;
+
+public class Sub extends Super {
+	
+	public Sub(int x) {
+		super(1);
+		i=2;
+	}
+
+	public static void main(String[] args) {
+		Sub sub = new Sub(1);
+		Super super1 = new Super(0);
+		System.out.println(sub.i);
+		System.out.println(super1.i);
+	}
+}

@@ -1,0 +1,12 @@
+package info.kblogics;
+
+public class Sub {
+	
+	public Sub(int x) {
+		
+	}
+
+	public static void main(String[] args) {
+		
+	}
+}

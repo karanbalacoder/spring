@@ -1,0 +1,29 @@
+package info.kblogics;
+
+	
+class App 
+{  
+	static boolean b;
+	
+    public static void main(String[] args) 
+    { 
+    	if(1==1) 
+    		System.out.println("only if");
+    	
+    	
+    	if(2==2);
+    		
+        		
+        	
+    	
+    	
+    	else if(3==3) {
+    		System.out.println("else if");
+    	}
+    	
+    	
+    	
+        
+    	
+    } 
+}
