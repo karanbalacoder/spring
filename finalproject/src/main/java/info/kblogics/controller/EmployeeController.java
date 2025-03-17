@@ -20,6 +20,7 @@ public class EmployeeController {
 	
 	@RequestMapping(method = RequestMethod.GET)
 	public String loginForm(Model model) {
+		System.out.println("hello bikarno");
 		model.addAttribute("employee", new Employee());
 		return "login";
 
