@@ -21,6 +21,7 @@ public class EmpSearchController {
 	public String searchForm(Model model) {
 		model.addAttribute("employee", new Employee());
 		System.out.println("my name is gauri");
+		System.out.println("my name is bala");
 		return "search";
 	}
 	
