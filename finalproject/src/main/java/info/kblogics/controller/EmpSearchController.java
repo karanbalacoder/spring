@@ -20,6 +20,7 @@ public class EmpSearchController {
 	@RequestMapping(method=RequestMethod.GET)
 	public String searchForm(Model model) {
 		model.addAttribute("employee", new Employee());
+		System.out.println("my name is gauri");
 		return "search";
 	}
 	
